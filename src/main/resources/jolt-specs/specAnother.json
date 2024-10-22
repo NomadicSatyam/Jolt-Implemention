@@ -1,0 +1,10 @@
+[{
+  "operation": "shift",
+  "spec": {
+    "name": "personalInfo.name",
+    "address": {
+      "city": "location.city",
+      "street": "location.street"
+    }
+  }
+}]
